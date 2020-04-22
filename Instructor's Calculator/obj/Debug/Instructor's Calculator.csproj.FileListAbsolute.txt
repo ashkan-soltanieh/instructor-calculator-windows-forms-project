@@ -1,0 +1,60 @@
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe.config
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\bin\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.csprojAssemblyReference.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.MainForm.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.Properties.Resources.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.GenerateResource.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe.config
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\bin\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\obj\Debug\Instructor's Calculator.csprojAssemblyReference.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.MainForm.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.Properties.Resources.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.GenerateResource.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\obj\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 2\Instructor's Calculator\obj\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe.config
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\bin\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.csprojAssemblyReference.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.MainForm.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.Properties.Resources.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.GenerateResource.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe.config
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\bin\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.csprojAssemblyReference.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.MainForm.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.Properties.Resources.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.GenerateResource.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 .NET & CS\Assignments\Assignment 2\Final Grade Calculator Version 3\Instructor's Calculator\obj\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe.config
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\bin\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\obj\Debug\Instructor's Calculator.csprojAssemblyReference.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.MainForm.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.Properties.Resources.resources
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.GenerateResource.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\obj\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Dropbox\SAIT-SoftwareDeveloper\W08 & W10 C#\Assignments\Assignment 2\Final Grade Calculator - Final Version\Instructor's Calculator\obj\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe.config
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\bin\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\bin\Debug\Instructor's Calculator.pdb
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.csprojAssemblyReference.cache
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.MainForm.resources
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\obj\Debug\Instructor_s_Calculator.Properties.Resources.resources
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.GenerateResource.cache
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.exe
+C:\Users\Ashkan\Desktop\InstructorsCalculator\Instructor's Calculator\obj\Debug\Instructor's Calculator.pdb
